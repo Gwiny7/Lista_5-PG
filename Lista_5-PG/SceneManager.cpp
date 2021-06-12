@@ -177,7 +177,7 @@ void SceneManager::render()
 		glBindTexture(GL_TEXTURE_2D, textureMaskID);
 		objects[8]->draw();
 	}
-
+	shaders[0]->Use();
 }
 
 void SceneManager::run()

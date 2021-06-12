@@ -1,8 +1,8 @@
-﻿  Sprite.cpp
-  SceneManager.cpp
+﻿  SceneManager.cpp
+C:\Users\guisc\OneDrive\Área de Trabalho\Trabalhos uni\PG\PG2021-1-main\Lista_5-PG\Lista_5-PG\Shader.h(116,61): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
   Source.cpp
-  stb_image.cpp
+C:\Users\guisc\OneDrive\Área de Trabalho\Trabalhos uni\PG\PG2021-1-main\Lista_5-PG\Lista_5-PG\Shader.h(116,61): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
+  Sprite.cpp
+C:\Users\guisc\OneDrive\Área de Trabalho\Trabalhos uni\PG\PG2021-1-main\Lista_5-PG\Lista_5-PG\Shader.h(116,61): warning C4244: 'argumento': conversão de 'float' para 'GLint', possível perda de dados
   Gerando Código...
-  glad.c
 LINK : fatal error LNK1104: não é possível abrir o arquivo 'glfw3.lib'
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(847,5): error MSB6006: "link.exe" foi encerrado com o código 1104.
